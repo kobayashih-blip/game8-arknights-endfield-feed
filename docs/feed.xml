@@ -5,8 +5,15 @@
     <link>https://game8.jp/arknights-endfield/search?q=</link>
     <description>Game8『アークナイツ：エンドフィールド』の記事を最終更新日時順で配信</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 31 Aug 2026 01:23:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 01:37:32 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>最強キャラランキング【アークナイツ】</title>
+      <link>https://game8.jp/arknights-endfield/681585</link>
+      <guid isPermaLink="true">https://game8.jp/arknights-endfield/681585</guid>
+      <pubDate>Mon, 31 Aug 2026 10:32:00 +0900</pubDate>
+      <description>エンドフィールドの最強キャラランキングの記事です。エンドフィールド最強キャラをTier表(ティア)で掲載しています。アークナイツエンドフィールド最強キャラについて知りたい方は是非ご覧ください。</description>
+    </item>
     <item>
       <title>電力のつなげ方（電力供給）【アークナイツ】</title>
       <link>https://game8.jp/arknights-endfield/681125</link>
@@ -92,18 +99,18 @@
       <description>アークナイツエンドフィールドのギルベルタの評価とおすすめパーティ編成・武器です。エンドフィールドギルベルタのおすすめ装備やスキル上げ優先度、凸や声優についても詳しく掲載しています。エンド...</description>
     </item>
     <item>
-      <title>ガスの収集場所と使い道・運び方【アークナイツ】</title>
-      <link>https://game8.jp/arknights-endfield/799964</link>
-      <guid isPermaLink="true">https://game8.jp/arknights-endfield/799964</guid>
-      <pubDate>Mon, 31 Aug 2026 10:11:00 +0900</pubDate>
-      <description>エンドフィールドのガスの収集場所と使い道・運び方の記事です。エンドフィールドのガスの収集場所だけでなく使い道やガスを使ったアイテムの生産区が必要になるクエスト一覧、運び方まで掲載している...</description>
-    </item>
-    <item>
       <title>マップ攻略と見方【アークナイツ】</title>
       <link>https://game8.jp/arknights-endfield/666283</link>
       <guid isPermaLink="true">https://game8.jp/arknights-endfield/666283</guid>
       <pubDate>Mon, 31 Aug 2026 10:11:00 +0900</pubDate>
       <description>エンドフィールドのマップの記事です。エンドフィールドマップのツールを導入しており、それぞれの場所はもちろん、見方についても掲載しています。アークナイツエンドフィールドマップについて知りた...</description>
+    </item>
+    <item>
+      <title>ガスの収集場所と使い道・運び方【アークナイツ】</title>
+      <link>https://game8.jp/arknights-endfield/799964</link>
+      <guid isPermaLink="true">https://game8.jp/arknights-endfield/799964</guid>
+      <pubDate>Mon, 31 Aug 2026 10:11:00 +0900</pubDate>
+      <description>エンドフィールドのガスの収集場所と使い道・運び方の記事です。エンドフィールドのガスの収集場所だけでなく使い道やガスを使ったアイテムの生産区が必要になるクエスト一覧、運び方まで掲載している...</description>
     </item>
     <item>
       <title>焔銅装備部品の図面と入手方法【アークナイツ】</title>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://game8.jp/arknights-endfield/780358</guid>
       <pubDate>Mon, 31 Aug 2026 10:11:00 +0900</pubDate>
       <description>エンドフィールドの液化重息壌の図面と入手方法の記事です。エンドフィールド液化重息壌の図面についてはもちろん、効果や使い方、製造方法についても掲載しています。アークナイツエンドフィールド液...</description>
-    </item>
-    <item>
-      <title>基質厳選のやり方と理想ライン・強化(基質食刻)の成功率を上げるコツ【アークナイツ】</title>
-      <link>https://game8.jp/arknights-endfield/758372</link>
-      <guid isPermaLink="true">https://game8.jp/arknights-endfield/758372</guid>
-      <pubDate>Mon, 31 Aug 2026 10:11:00 +0900</pubDate>
-      <description>エンドフィールドの基質厳選のやり方とメリットについての記事です。アークナイツエンドフィールド基質厳選の効率的なやり方や基質食刻、基質についてもまとめて紹介しています。</description>
     </item>
   </channel>
 </rss>
