@@ -5,8 +5,22 @@
     <link>https://game8.jp/arknights-endfield/search?q=</link>
     <description>Game8『アークナイツ：エンドフィールド』の記事を最終更新日時順で配信</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 03 Sep 2026 06:20:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 06:46:13 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>アルデリアのおすすめ装備と武器・編成【アークナイツ】</title>
+      <link>https://game8.jp/arknights-endfield/755301</link>
+      <guid isPermaLink="true">https://game8.jp/arknights-endfield/755301</guid>
+      <pubDate>Thu, 03 Sep 2026 15:21:00 +0900</pubDate>
+      <description>アークナイツエンドフィールドのアルデリアの評価とおすすめパーティ編成・武器です。エンドフィールドアルデリアのおすすめ装備やスキル上げ優先度、凸や声優についても詳しく掲載しています。エンド...</description>
+    </item>
+    <item>
+      <title>最強キャラランキング【アークナイツ】</title>
+      <link>https://game8.jp/arknights-endfield/681585</link>
+      <guid isPermaLink="true">https://game8.jp/arknights-endfield/681585</guid>
+      <pubDate>Thu, 03 Sep 2026 15:21:00 +0900</pubDate>
+      <description>エンドフィールドの最強キャラランキングの記事です。エンドフィールド最強キャラをTier表(ティア)で掲載しています。アークナイツエンドフィールド最強キャラについて知りたい方は是非ご覧ください。</description>
+    </item>
     <item>
       <title>ティフォロスのおすすめ装備と編成・武器【アークナイツ】</title>
       <link>https://game8.jp/arknights-endfield/811011</link>
@@ -20,13 +34,6 @@
       <guid isPermaLink="true">https://game8.jp/arknights-endfield/755393</guid>
       <pubDate>Thu, 03 Sep 2026 15:17:00 +0900</pubDate>
       <description>アークナイツエンドフィールドのフローライトの評価とおすすめ編成・武器です。エンドフィールドフローライトのおすすめ装備やスキル上げ優先度、凸や声優についても詳しく掲載しています。エンドフィ...</description>
-    </item>
-    <item>
-      <title>最強キャラランキング【アークナイツ】</title>
-      <link>https://game8.jp/arknights-endfield/681585</link>
-      <guid isPermaLink="true">https://game8.jp/arknights-endfield/681585</guid>
-      <pubDate>Thu, 03 Sep 2026 15:17:00 +0900</pubDate>
-      <description>エンドフィールドの最強キャラランキングの記事です。エンドフィールド最強キャラをTier表(ティア)で掲載しています。アークナイツエンドフィールド最強キャラについて知りたい方は是非ご覧ください。</description>
     </item>
     <item>
       <title>拠点防衛（襲撃）の攻略・警備端末【アークナイツ】</title>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://game8.jp/arknights-endfield/812990</guid>
       <pubDate>Thu, 03 Sep 2026 12:13:00 +0900</pubDate>
       <description>アークナイツエンドフィールドの集成訓練強襲プロテクターの性能と入手方法です。エンドフィールド集成訓練強襲プロテクターの効果やセット効果はもちろん、レシピの入手タイミングも詳しく掲載してい...</description>
-    </item>
-    <item>
-      <title>集成訓練電力プラグの性能と入手方法【アークナイツ】</title>
-      <link>https://game8.jp/arknights-endfield/812993</link>
-      <guid isPermaLink="true">https://game8.jp/arknights-endfield/812993</guid>
-      <pubDate>Thu, 03 Sep 2026 12:13:00 +0900</pubDate>
-      <description>アークナイツエンドフィールドの集成訓練電力プラグの性能と入手方法です。エンドフィールド集成訓練電力プラグの効果やセット効果はもちろん、レシピの入手タイミングも詳しく掲載しています。エンド...</description>
     </item>
   </channel>
 </rss>
