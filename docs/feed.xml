@@ -5,8 +5,15 @@
     <link>https://game8.jp/arknights-endfield/search?q=</link>
     <description>Game8『アークナイツ：エンドフィールド』の記事を最終更新日時順で配信</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 08 Sep 2026 04:15:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 04:31:25 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>樹海の怒の攻略と攻撃パターン【アークナイツ】</title>
+      <link>https://game8.jp/arknights-endfield/814051</link>
+      <guid isPermaLink="true">https://game8.jp/arknights-endfield/814051</guid>
+      <pubDate>Tue, 08 Sep 2026 13:26:00 +0900</pubDate>
+      <description>エンドフィールドの樹海の怒攻略です。弱点属性や攻略ポイントだけでなく攻撃パターンや報酬一覧まで掲載しています。アークナイツエンドフィールドの樹海の怒について知りたい方は是非ご覧ください。</description>
+    </item>
     <item>
       <title>図面コードと最終図面（完成図）一覧【アークナイツ】</title>
       <link>https://game8.jp/arknights-endfield/758293</link>
@@ -43,13 +50,6 @@
       <description>エンドフィールドの原生鉗獣のドロップアイテムと出現場所の記事です。エンドフィールド原生鉗獣の耐性についても掲載しています。アークナイツエンドフィールド原生鉗獣について知りたい方は是非ご覧...</description>
     </item>
     <item>
-      <title>略奪者・精鋭のドロップアイテムと出現場所【アークナイツ】</title>
-      <link>https://game8.jp/arknights-endfield/756842</link>
-      <guid isPermaLink="true">https://game8.jp/arknights-endfield/756842</guid>
-      <pubDate>Tue, 08 Sep 2026 10:57:00 +0900</pubDate>
-      <description>エンドフィールドの略奪者・精鋭のドロップアイテムと出現場所の記事です。エンドフィールド略奪者・精鋭の耐性についても掲載しています。アークナイツエンドフィールド略奪者・精鋭について知りたい...</description>
-    </item>
-    <item>
       <title>ボーンクラッシャーの潜入者のドロップアイテムと出現場所【アークナイツ】</title>
       <link>https://game8.jp/arknights-endfield/756838</link>
       <guid isPermaLink="true">https://game8.jp/arknights-endfield/756838</guid>
@@ -62,6 +62,13 @@
       <guid isPermaLink="true">https://game8.jp/arknights-endfield/756840</guid>
       <pubDate>Tue, 08 Sep 2026 10:57:00 +0900</pubDate>
       <description>エンドフィールドの骨砕牙獣のドロップアイテムと出現場所の記事です。エンドフィールド骨砕牙獣の耐性についても掲載しています。アークナイツエンドフィールド骨砕牙獣について知りたい方は是非ご覧...</description>
+    </item>
+    <item>
+      <title>略奪者・精鋭のドロップアイテムと出現場所【アークナイツ】</title>
+      <link>https://game8.jp/arknights-endfield/756842</link>
+      <guid isPermaLink="true">https://game8.jp/arknights-endfield/756842</guid>
+      <pubDate>Tue, 08 Sep 2026 10:57:00 +0900</pubDate>
+      <description>エンドフィールドの略奪者・精鋭のドロップアイテムと出現場所の記事です。エンドフィールド略奪者・精鋭の耐性についても掲載しています。アークナイツエンドフィールド略奪者・精鋭について知りたい...</description>
     </item>
     <item>
       <title>球刺獣のドロップアイテムと出現場所【アークナイツ】</title>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://game8.jp/arknights-endfield/756825</guid>
       <pubDate>Tue, 08 Sep 2026 10:57:00 +0900</pubDate>
       <description>エンドフィールドの錐晶アンゲロスのドロップアイテムと出現場所の記事です。エンドフィールド錐晶アンゲロスの耐性についても掲載しています。アークナイツエンドフィールド錐晶アンゲロスについて知...</description>
-    </item>
-    <item>
-      <title>断雲翁のドロップアイテムと出現場所【アークナイツ】</title>
-      <link>https://game8.jp/arknights-endfield/769787</link>
-      <guid isPermaLink="true">https://game8.jp/arknights-endfield/769787</guid>
-      <pubDate>Tue, 08 Sep 2026 10:57:00 +0900</pubDate>
-      <description>エンドフィールドの断雲翁のドロップアイテムと出現場所の記事です。エンドフィールド断雲翁の耐性についても掲載しています。アークナイツエンドフィールド断雲翁について知りたい方は是非ご覧ください。</description>
     </item>
   </channel>
 </rss>
