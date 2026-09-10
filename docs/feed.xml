@@ -5,14 +5,21 @@
     <link>https://game8.jp/arknights-endfield/search?q=</link>
     <description>Game8『アークナイツ：エンドフィールド』の記事を最終更新日時順で配信</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 10 Sep 2026 07:55:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 08:16:06 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>弓の試練の攻略と進め方【アークナイツ】</title>
       <link>https://game8.jp/arknights-endfield/814895</link>
       <guid isPermaLink="true">https://game8.jp/arknights-endfield/814895</guid>
-      <pubDate>Thu, 10 Sep 2026 15:37:00 +0900</pubDate>
+      <pubDate>Thu, 10 Sep 2026 17:03:00 +0900</pubDate>
       <description>エンドフィールドの弓の試練の攻略です。上級訓練の攻略や解放条件・報酬まで掲載しています。アークナイツエンドフィールド弓の試練（ティフォロスの射場）について知りたい方は是非ご覧ください。</description>
+    </item>
+    <item>
+      <title>鎮裂の攻略と進め方・おすすめ図面【アークナイツ】</title>
+      <link>https://game8.jp/arknights-endfield/799972</link>
+      <guid isPermaLink="true">https://game8.jp/arknights-endfield/799972</guid>
+      <pubDate>Thu, 10 Sep 2026 16:57:00 +0900</pubDate>
+      <description>エンドフィールドの重要任務・サブクエスト「鎮裂」の攻略記事です。手順や解放条件、攻略のための図面などを詳しく掲載しています。</description>
     </item>
     <item>
       <title>フローライトのおすすめ装備と武器・編成【アークナイツ】</title>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://game8.jp/arknights-endfield/802559</guid>
       <pubDate>Thu, 10 Sep 2026 10:16:00 +0900</pubDate>
       <description>アークナイツエンドフィールドのスーの実装予想記事です。エンドフィールドスーは実装されるかや声優・性能予想についても詳しく掲載しています。</description>
-    </item>
-    <item>
-      <title>ゾアン・ファンイのおすすめ装備と編成・武器【アークナイツ】</title>
-      <link>https://game8.jp/arknights-endfield/768639</link>
-      <guid isPermaLink="true">https://game8.jp/arknights-endfield/768639</guid>
-      <pubDate>Thu, 10 Sep 2026 10:16:00 +0900</pubDate>
-      <description>エンドフィールドのゾアンのおすすめ装備と編成・武器です。アークナイツエンドフィールドゾアンのおすすめ装備や編成、武器だけでなくスキル上げ優先度、特化優先度や凸、声優についても詳しく掲載し...</description>
     </item>
   </channel>
 </rss>
