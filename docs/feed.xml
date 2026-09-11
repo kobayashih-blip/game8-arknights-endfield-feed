@@ -5,8 +5,15 @@
     <link>https://game8.jp/arknights-endfield/search?q=</link>
     <description>Game8『アークナイツ：エンドフィールド』の記事を最終更新日時順で配信</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 11 Sep 2026 06:18:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 06:47:09 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>術無の評価と基質優先度【アークナイツ】</title>
+      <link>https://game8.jp/arknights-endfield/755510</link>
+      <guid isPermaLink="true">https://game8.jp/arknights-endfield/755510</guid>
+      <pubDate>Fri, 11 Sep 2026 15:44:00 +0900</pubDate>
+      <description>アークナイツエンドフィールドの術無の評価と基質優先度です。エンドフィールド術無の性能やおすすめキャラはもちろん、術無がモチーフ武器のキャラまで詳しく掲載しています。エンドフィールド術無に...</description>
+    </item>
     <item>
       <title>遺忘の評価と基質優先度【アークナイツ】</title>
       <link>https://game8.jp/arknights-endfield/755518</link>
@@ -85,11 +92,11 @@
       <description>アークナイツエンドフィールドの管理人のおすすめ編成と装備・武器です。エンドフィールド管理人（主人公）の使い方やスキル上げ優先度、凸アイテムや声優についても詳しく掲載しています。エンドフィ...</description>
     </item>
     <item>
-      <title>ガチャスケジュール一覧・予定【アークナイツ】</title>
-      <link>https://game8.jp/arknights-endfield/758224</link>
-      <guid isPermaLink="true">https://game8.jp/arknights-endfield/758224</guid>
+      <title>ガチャの仕様と天井・確率【アークナイツ】</title>
+      <link>https://game8.jp/arknights-endfield/757211</link>
+      <guid isPermaLink="true">https://game8.jp/arknights-endfield/757211</guid>
       <pubDate>Fri, 11 Sep 2026 10:04:00 +0900</pubDate>
-      <description>エンドフィールドのガチャスケジュール一覧と予定です。ガチャのおすすめや次のガチャ予定、ガチャの天井、排出確率などを知りたい人は是非参考にしてください。アークナイツエンドフィールドガチャに...</description>
+      <description>エンドフィールドのガチャ(スカウト)の仕様と天井・確率についての記事です。ガチャの仕様解説や、天井の引き継ぎやすり抜け確率といった疑問への回答も掲載しています。アークナイツエンドフィール...</description>
     </item>
     <item>
       <title>中容量武陵バッテリーの入手方法と使い道【アークナイツ】</title>
@@ -106,11 +113,11 @@
       <description>エンドフィールドの工業効率的な進め方の記事です。エンドフィールド工業のおすすめアイテムについてはもちろん、生産ラインや工業計画（スキルツリー）のおすすめ取得順についても掲載しています。ア...</description>
     </item>
     <item>
-      <title>ガチャの仕様と天井・確率【アークナイツ】</title>
-      <link>https://game8.jp/arknights-endfield/757211</link>
-      <guid isPermaLink="true">https://game8.jp/arknights-endfield/757211</guid>
+      <title>ガチャスケジュール一覧・予定【アークナイツ】</title>
+      <link>https://game8.jp/arknights-endfield/758224</link>
+      <guid isPermaLink="true">https://game8.jp/arknights-endfield/758224</guid>
       <pubDate>Fri, 11 Sep 2026 10:04:00 +0900</pubDate>
-      <description>エンドフィールドのガチャ(スカウト)の仕様と天井・確率についての記事です。ガチャの仕様解説や、天井の引き継ぎやすり抜け確率といった疑問への回答も掲載しています。アークナイツエンドフィール...</description>
+      <description>エンドフィールドのガチャスケジュール一覧と予定です。ガチャのおすすめや次のガチャ予定、ガチャの天井、排出確率などを知りたい人は是非参考にしてください。アークナイツエンドフィールドガチャに...</description>
     </item>
     <item>
       <title>プレゼント一覧と好みのキャラ【アークナイツ】</title>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://game8.jp/arknights-endfield/758345</guid>
       <pubDate>Fri, 11 Sep 2026 10:04:00 +0900</pubDate>
       <description>エンドフィールドの育成要素をまとめた記事です。エンドフィールドレベル上げはもちろん、昇級や潜在解放などの情報やレベル上げの素材必要数も掲載しています。アークナイツエンドフィールド育成要素...</description>
-    </item>
-    <item>
-      <title>デイリー日課と毎日やることまとめ【アークナイツ】</title>
-      <link>https://game8.jp/arknights-endfield/666518</link>
-      <guid isPermaLink="true">https://game8.jp/arknights-endfield/666518</guid>
-      <pubDate>Fri, 11 Sep 2026 10:03:00 +0900</pubDate>
-      <description>エンドフィールドのデイリーまとめの記事です。エンドフィールド毎日やること（デイリー日課）について掲載しています。アークナイツエンドフィールド毎日やることについて知りたい方は是非ご覧ください。</description>
     </item>
   </channel>
 </rss>
