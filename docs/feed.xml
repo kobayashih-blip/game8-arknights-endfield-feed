@@ -5,8 +5,22 @@
     <link>https://game8.jp/arknights-endfield/search?q=</link>
     <description>Game8『アークナイツ：エンドフィールド』の記事を最終更新日時順で配信</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 11 Sep 2026 02:14:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 02:30:11 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>弓の試練の攻略と進め方【アークナイツ】</title>
+      <link>https://game8.jp/arknights-endfield/814895</link>
+      <guid isPermaLink="true">https://game8.jp/arknights-endfield/814895</guid>
+      <pubDate>Fri, 11 Sep 2026 11:25:00 +0900</pubDate>
+      <description>エンドフィールドの弓の試練の攻略です。上級訓練の攻略や解放条件・報酬まで掲載しています。アークナイツエンドフィールド弓の試練（ティフォロスの射場）について知りたい方は是非ご覧ください。</description>
+    </item>
+    <item>
+      <title>イベントスケジュール一覧【アークナイツ】</title>
+      <link>https://game8.jp/arknights-endfield/758288</link>
+      <guid isPermaLink="true">https://game8.jp/arknights-endfield/758288</guid>
+      <pubDate>Fri, 11 Sep 2026 11:25:00 +0900</pubDate>
+      <description>エンドフィールドのイベントスケジュール一覧です。現在開催中のイベント内容だけでなく、今後開催予定のイベントやキャンペーンもまとめて掲載しています。エンドフィールド イベント最新情報やイベ...</description>
+    </item>
     <item>
       <title>タンタンのおすすめ装備と武器・編成【アークナイツ】</title>
       <link>https://game8.jp/arknights-endfield/763894</link>
@@ -34,13 +48,6 @@
       <guid isPermaLink="true">https://game8.jp/arknights-endfield/758293</guid>
       <pubDate>Fri, 11 Sep 2026 10:29:00 +0900</pubDate>
       <description>エンドフィールドの図面コードと、拠点配置の完成形である最終図面の一覧です。四号谷地や武陵で資源を最高効率で生産するための共有コードを網羅。コピペするだけで自動化ラインを構築したい方は是非...</description>
-    </item>
-    <item>
-      <title>イベントスケジュール一覧【アークナイツ】</title>
-      <link>https://game8.jp/arknights-endfield/758288</link>
-      <guid isPermaLink="true">https://game8.jp/arknights-endfield/758288</guid>
-      <pubDate>Fri, 11 Sep 2026 10:05:00 +0900</pubDate>
-      <description>エンドフィールドのイベントスケジュール一覧です。現在開催中のイベント内容だけでなく、今後開催予定のイベントやキャンペーンもまとめて掲載しています。エンドフィールド イベント最新情報やイベ...</description>
     </item>
     <item>
       <title>六方密境の攻略と宝箱の位置・密境の探索者【アークナイツ】</title>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://game8.jp/arknights-endfield/797912</guid>
       <pubDate>Fri, 11 Sep 2026 10:03:00 +0900</pubDate>
       <description>エンドフィールドの焔銅装備部品の図面と入手方法の記事です。エンドフィールド焔銅装備部品の入手場所についてはもちろん、効果や使い方、製造方法についても掲載しています。アークナイツエンドフィ...</description>
-    </item>
-    <item>
-      <title>ガスの収集場所と使い道・運び方【アークナイツ】</title>
-      <link>https://game8.jp/arknights-endfield/799964</link>
-      <guid isPermaLink="true">https://game8.jp/arknights-endfield/799964</guid>
-      <pubDate>Fri, 11 Sep 2026 10:03:00 +0900</pubDate>
-      <description>エンドフィールドのガスの収集場所と使い道・運び方の記事です。エンドフィールドのガスの収集場所だけでなく使い道やガスを使ったアイテムの生産区が必要になるクエスト一覧、運び方まで掲載している...</description>
     </item>
   </channel>
 </rss>
