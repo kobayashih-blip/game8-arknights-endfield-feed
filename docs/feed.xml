@@ -5,21 +5,35 @@
     <link>https://game8.jp/arknights-endfield/search?q=</link>
     <description>Game8『アークナイツ：エンドフィールド』の記事を最終更新日時順で配信</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 15 Sep 2026 06:48:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 07:17:20 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ステータスの意味と見方【アークナイツ】</title>
+      <link>https://game8.jp/arknights-endfield/789246</link>
+      <guid isPermaLink="true">https://game8.jp/arknights-endfield/789246</guid>
+      <pubDate>Tue, 15 Sep 2026 16:14:00 +0900</pubDate>
+      <description>エンドフィールドのステータスの意味と見方についての記事です。エンドフィールド能力値の効果はもちろん、ステータス画面の見方も掲載しています。アークナイツエンドフィールドステータスについて知...</description>
+    </item>
+    <item>
+      <title>アーツ強度とは【アークナイツ】</title>
+      <link>https://game8.jp/arknights-endfield/763990</link>
+      <guid isPermaLink="true">https://game8.jp/arknights-endfield/763990</guid>
+      <pubDate>Tue, 15 Sep 2026 16:08:00 +0900</pubDate>
+      <description>エンドフィールドのアーツ強度についての解説記事です。エンドフィールドアーツ強度の解説はもちろん、アーツダメージやアーツ爆発など間違えやすい単語との違いについても解説しています。気になる人...</description>
+    </item>
+    <item>
+      <title>アーツ爆発とアーツ異常の違い・物理異常とは【アークナイツ】</title>
+      <link>https://game8.jp/arknights-endfield/703980</link>
+      <guid isPermaLink="true">https://game8.jp/arknights-endfield/703980</guid>
+      <pubDate>Tue, 15 Sep 2026 16:04:00 +0900</pubDate>
+      <description>エンドフィールドアーツ爆発とアーツ異常の違いや、物理異常についての記事です。エンドフィールドのアーツ異常や爆発についてはもちろん、物理異常についても掲載しています。</description>
+    </item>
     <item>
       <title>アケトン樹木の入手方法と生産図面・使い道【アークナイツ】</title>
       <link>https://game8.jp/arknights-endfield/757602</link>
       <guid isPermaLink="true">https://game8.jp/arknights-endfield/757602</guid>
       <pubDate>Tue, 15 Sep 2026 15:29:00 +0900</pubDate>
       <description>エンドフィールドのアケトン樹木の入手方法と使い道の記事です。エンドフィールドアケトン樹木の入手場所についてはもちろん、効果や使い方、製造方法についても掲載しています。アークナイツエンドフ...</description>
-    </item>
-    <item>
-      <title>アーツ強度とは【アークナイツ】</title>
-      <link>https://game8.jp/arknights-endfield/763990</link>
-      <guid isPermaLink="true">https://game8.jp/arknights-endfield/763990</guid>
-      <pubDate>Tue, 15 Sep 2026 15:23:00 +0900</pubDate>
-      <description>エンドフィールドのアーツ強度についての解説記事です。エンドフィールドアーツ強度の解説はもちろん、アーツダメージやアーツ爆発など間違えやすい単語との違いについても解説しています。気になる人...</description>
     </item>
     <item>
       <title>拡張演算チップの入手方法と使い道【アークナイツ】</title>
@@ -132,20 +146,6 @@
       <guid isPermaLink="true">https://game8.jp/arknights-endfield/757211</guid>
       <pubDate>Tue, 15 Sep 2026 10:18:00 +0900</pubDate>
       <description>エンドフィールドのガチャ(スカウト)の仕様と天井・確率についての記事です。ガチャの仕様解説や、天井の引き継ぎやすり抜け確率といった疑問への回答も掲載しています。アークナイツエンドフィール...</description>
-    </item>
-    <item>
-      <title>ガチャスケジュール一覧・予定【アークナイツ】</title>
-      <link>https://game8.jp/arknights-endfield/758224</link>
-      <guid isPermaLink="true">https://game8.jp/arknights-endfield/758224</guid>
-      <pubDate>Tue, 15 Sep 2026 10:18:00 +0900</pubDate>
-      <description>エンドフィールドのガチャスケジュール一覧と予定です。ガチャのおすすめや次のガチャ予定、ガチャの天井、排出確率などを知りたい人は是非参考にしてください。アークナイツエンドフィールドガチャに...</description>
-    </item>
-    <item>
-      <title>プレゼント一覧と好みのキャラ【アークナイツ】</title>
-      <link>https://game8.jp/arknights-endfield/681277</link>
-      <guid isPermaLink="true">https://game8.jp/arknights-endfield/681277</guid>
-      <pubDate>Tue, 15 Sep 2026 10:17:00 +0900</pubDate>
-      <description>エンドフィールドのプレゼント一覧と好みのキャラの記事です。エンドフィールドプレゼントの入手方法はもちろん、渡し方やメリットについても掲載しています。アークナイツエンドフィールドプレゼント...</description>
     </item>
   </channel>
 </rss>
