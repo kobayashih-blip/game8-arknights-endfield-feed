@@ -5,8 +5,15 @@
     <link>https://game8.jp/arknights-endfield/search?q=</link>
     <description>Game8『アークナイツ：エンドフィールド』の記事を最終更新日時順で配信</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 18 Sep 2026 01:13:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 01:26:45 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>エンバーのおすすめ装備と編成・武器【アークナイツ】</title>
+      <link>https://game8.jp/arknights-endfield/687522</link>
+      <guid isPermaLink="true">https://game8.jp/arknights-endfield/687522</guid>
+      <pubDate>Fri, 18 Sep 2026 10:20:00 +0900</pubDate>
+      <description>アークナイツエンドフィールドのエンバーのおすすめ装備と編成・武器です。エンドフィールドエンバーのおすすめ装備やスキル上げ優先度、凸や声優についても詳しく掲載しています。エンドフィールドエ...</description>
+    </item>
     <item>
       <title>集成支援・龍泡泡出撃の進め方と報酬【アークナイツ】</title>
       <link>https://game8.jp/arknights-endfield/816368</link>
@@ -113,18 +120,18 @@
       <description>アークナイツエンドフィールドのフローライトの評価とおすすめ編成・武器です。エンドフィールドフローライトのおすすめ装備やスキル上げ優先度、凸や声優についても詳しく掲載しています。エンドフィ...</description>
     </item>
     <item>
-      <title>ペリカのおすすめ装備と編成・武器【アークナイツ】</title>
-      <link>https://game8.jp/arknights-endfield/687525</link>
-      <guid isPermaLink="true">https://game8.jp/arknights-endfield/687525</guid>
-      <pubDate>Fri, 18 Sep 2026 10:09:00 +0900</pubDate>
-      <description>アークナイツエンドフィールドのペリカの評価とおすすめ装備と編成・武器です。エンドフィールドペリカのおすすめ装備やスキル上げ優先度、凸や声優についても詳しく掲載しています。エンドフィールド...</description>
-    </item>
-    <item>
       <title>鎮裂の攻略と進め方・おすすめ図面【アークナイツ】</title>
       <link>https://game8.jp/arknights-endfield/799972</link>
       <guid isPermaLink="true">https://game8.jp/arknights-endfield/799972</guid>
       <pubDate>Fri, 18 Sep 2026 10:09:00 +0900</pubDate>
       <description>エンドフィールドの重要任務・サブクエスト「鎮裂」の攻略記事です。手順や解放条件、攻略のための図面などを詳しく掲載しています。</description>
+    </item>
+    <item>
+      <title>ペリカのおすすめ装備と編成・武器【アークナイツ】</title>
+      <link>https://game8.jp/arknights-endfield/687525</link>
+      <guid isPermaLink="true">https://game8.jp/arknights-endfield/687525</guid>
+      <pubDate>Fri, 18 Sep 2026 10:09:00 +0900</pubDate>
+      <description>アークナイツエンドフィールドのペリカの評価とおすすめ装備と編成・武器です。エンドフィールドペリカのおすすめ装備やスキル上げ優先度、凸や声優についても詳しく掲載しています。エンドフィールド...</description>
     </item>
     <item>
       <title>アプデ最新情報・次回Ver1.6はいつ？【アークナイツ】</title>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://game8.jp/arknights-endfield/802410</guid>
       <pubDate>Fri, 18 Sep 2026 10:09:00 +0900</pubDate>
       <description>エンドフィールドの自然属性のおすすめ編成の記事です。アークナイツエンドフィールド自然のおすすめ編成やパーティはもちろん、編成例をいくつも掲載しています。</description>
-    </item>
-    <item>
-      <title>武器おすすめをキャラ別に紹介【アークナイツ】</title>
-      <link>https://game8.jp/arknights-endfield/758347</link>
-      <guid isPermaLink="true">https://game8.jp/arknights-endfield/758347</guid>
-      <pubDate>Fri, 18 Sep 2026 10:08:00 +0900</pubDate>
-      <description>エンドフィールドの武器のおすすめ一覧（キャラ別）です。エンドフィールド武器おすすめを検索ツール付きで掲載し、武器の選び方まで詳しく解説しています。エンドフィールドおすすめ武器について知り...</description>
     </item>
   </channel>
 </rss>
