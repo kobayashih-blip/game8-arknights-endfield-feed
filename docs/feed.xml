@@ -5,8 +5,15 @@
     <link>https://game8.jp/arknights-endfield/search?q=</link>
     <description>Game8『アークナイツ：エンドフィールド』の記事を最終更新日時順で配信</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 22 Oct 2026 20:44:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 23:39:28 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>最終図面（完成図）と図面コード一覧【アークナイツ】</title>
+      <link>https://game8.jp/arknights-endfield/758293</link>
+      <guid isPermaLink="true">https://game8.jp/arknights-endfield/758293</guid>
+      <pubDate>Fri, 23 Oct 2026 05:35:00 +0900</pubDate>
+      <description>エンドフィールドの図面コードと、拠点配置の完成形である最終図面の一覧です。四号谷地や武陵で資源を最高効率で生産するための共有コードを網羅。コピペするだけで自動化ラインを構築したい方は是非...</description>
+    </item>
     <item>
       <title>深き森の囁きの全ステージ攻略とおすすめ編成【アークナイツ】</title>
       <link>https://game8.jp/arknights-endfield/833836</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://game8.jp/arknights-endfield/832893</guid>
       <pubDate>Thu, 22 Oct 2026 11:52:00 +0900</pubDate>
       <description>エンドフィールドの俗世の縁の進め方と報酬を掲載しています。アークナイツエンドフィールド俗世の縁のイベント内容や流れについても知りたい方は是非ご覧ください。</description>
-    </item>
-    <item>
-      <title>最終図面（完成図）と図面コード一覧【アークナイツ】</title>
-      <link>https://game8.jp/arknights-endfield/758293</link>
-      <guid isPermaLink="true">https://game8.jp/arknights-endfield/758293</guid>
-      <pubDate>Thu, 22 Oct 2026 10:23:00 +0900</pubDate>
-      <description>エンドフィールドの図面コードと、拠点配置の完成形である最終図面の一覧です。四号谷地や武陵で資源を最高効率で生産するための共有コードを網羅。コピペするだけで自動化ラインを構築したい方は是非...</description>
     </item>
   </channel>
 </rss>
